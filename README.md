@@ -11,7 +11,7 @@
   <a href="http://crud-user.infinityfreeapp.com/user/login.php">Login User</a>
 </p>
 
-<h2>Tampilan Web</h2>
+<h2>Tampilan Web dan Database</h2>
 <div align="center">
   <table>
     <tr>
