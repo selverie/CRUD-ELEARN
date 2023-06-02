@@ -17,37 +17,37 @@
     <tr>
       <td>
         <h6>Login</h6>
-        <img height="150em" src="Tampilan/login.jpg"/>
+        <img height="150em" src="Tampilan/login.png"/>
       </td>
       <td colspan="2">
         <h6>Dashboard Admin</h6>
-        <img height="150em" src="Tampilan/dashboard_admin.jpg"/>
+        <img height="150em" src="Tampilan/dashboard_admin.png"/>
       </td>
     </tr>
     <tr>
       <td>
         <h6>Tambah Tugas Admin</h6>
-        <img height="150em" src="Tampilan/tambah_tugas_admin.jpg"/>
+        <img height="150em" src="Tampilan/tambah_tugas_admin.png"/>
       </td>
       <td>
         <h6>Dashboard User</h6>
-        <img height="150em" src="Tampilan/dashboard_user.jpg"/>
+        <img height="150em" src="Tampilan/dashboard_user.png"/>
       </td>
     </tr>
     <tr>
       <td>
         <h6>Upload Tugas User</h6>
-        <img height="150em" src="Tampilan/upload.jpg"/>
+        <img height="150em" src="Tampilan/upload.png"/>
       </td>
     </tr>
     <tr>
       <td>
         <h6>Storage Firebase</h6>
-        <img height="150em" src="Tampilan/storage.jpg"/>
+        <img height="150em" src="Tampilan/storage.png"/>
       </td>
       <td>
         <h6>Realtime Database Firebase</h6>
-        <img height="150em" src="Tampilan/RDB.jpg"/>
+        <img height="150em" src="Tampilan/RDB.png"/>
       </td>
     </tr>
     
