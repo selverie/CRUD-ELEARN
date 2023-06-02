@@ -9,30 +9,41 @@
   <table>
     <tr>
       <td>
-        <h6>Splash Screen</h6>
-        <img height="150em" src="Demo/landscape/splash_landscape.jpg"/>
+        <h6>Login</h6>
+        <img height="150em" src="Tampilan/login.jpg"/>
       </td>
       <td colspan="2">
-        <h6>Get Started</h6>
-        <img height="150em" src="Demo/landscape/get_started_landscape.jpg"/>
+        <h6>Dashboard Admin</h6>
+        <img height="150em" src="Tampilan/dashboard_admin.jpg"/>
       </td>
     </tr>
     <tr>
       <td>
-        <h6>Login</h6>
-        <img height="150em" src="Demo/landscape/login_landscape.jpg"/>
+        <h6>Tambah Tugas Admin</h6>
+        <img height="150em" src="Tampilan/tambah_tugas_admin.jpg"/>
       </td>
       <td>
-        <h6>Beranda</h6>
-        <img height="150em" src="Demo/landscape/beranda_landscape.jpg"/>
+        <h6>Dashboard User</h6>
+        <img height="150em" src="Tampilan/dashboard_user.jpg"/>
       </td>
     </tr>
     <tr>
       <td>
-        <h6>Profil</h6>
-        <img height="150em" src="Demo/landscape/profil_landscape.jpg"/>
+        <h6>Upload Tugas User</h6>
+        <img height="150em" src="Tampilan/upload.jpg"/>
       </td>
     </tr>
+    <tr>
+      <td>
+        <h6>Storage Firebase</h6>
+        <img height="150em" src="Tampilan/storage.jpg"/>
+      </td>
+      <td>
+        <h6>Realtime Database Firebase</h6>
+        <img height="150em" src="Tampilan/RDB.jpg"/>
+      </td>
+    </tr>
+    
   </table>
 </div>
 
