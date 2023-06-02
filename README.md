@@ -2,6 +2,8 @@
   <h1>Simple CRUD PHP Firebase</h1>
 </div>
 
+<p>Membuat CRUD dengan menggunakan bahasa permograman PHP dan database Firebase</p>
+
 <h2>Tampilan Web</h2>
 <div align="center">
   <table>
